@@ -17,8 +17,6 @@ Wireframing is important because:
 
 You use wireframing in the early stages of a project, before you design or build the final product. It helps you think clearly and organize your ideas.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Key Elements of a Wireframe
 
 Here are the main parts that you will usually see in a wireframe:
@@ -50,5 +48,45 @@ Functionality shows how things work on the page, like buttons, forms, or pop-ups
 
 **Example:**  
 A login form wireframe might show two input fields (for email and password) and a "Login" button. It may also show what happens if the user enters the wrong password.
+
+---
+
+## Types of Wireframes
+
+There are mainly two types of wireframes: **low-fidelity** and **high-fidelity**.
+
+### Low-Fidelity Wireframes
+
+- These are quick and simple sketches or digital drafts.
+- They are usually black and white and don’t show much detail.
+- They are used early in the design process to share ideas and test layouts.
+
+**Example:**  
+A hand-drawn layout of a homepage showing only boxes and labels like "Image", "Menu", or "Text".
+
+### High-Fidelity Wireframes
+
+- These wireframes are more detailed and look closer to the final product.
+- They may include colors, real content, icons, and exact spacing.
+- They are used later in the process when the structure is clear, and the team needs to prepare for design or development.
+
+**Example:**  
+A full wireframe of a mobile app showing real buttons, images, and how the app will work and look.
+
+---
+
+## What Type of Wireframe Is This?
+
+It is a **high-fidelity wireframe**.
+
+it is more detailed and includes real design elements like:
+
+- Fonts and colors
+- Buttons and icons
+- Proper spacing and alignment
+- Real text or sample content
+- Images
+
+High-fidelity wireframes are often shared with clients or developers to show how the final product will function and look.
 
 
